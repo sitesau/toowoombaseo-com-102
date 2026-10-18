@@ -1,0 +1,22 @@
+{
+  "wheel_id": 378,
+  "structure": "umbrella",
+  "slug": "toowoombaseo-com-102",
+  "project": "seo-services-toowoomba-questions-to-ask-355b5d856c61cb3a302e04d",
+  "parent_t1_ref": "toowoombaseo-com-151",
+  "node_role": "feeder",
+  "money_target": "toowoombaseo.com.au",
+  "primary_kw": "seo services toowoomba questions to ask",
+  "intended_url": "https://sitesau.github.io/toowoombaseo-com-102/",
+  "tier": "T2",
+  "writeback_nonce": "fc82cd4ca854e03c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-toowoomba-974a7438ae6ca2b9b61729134c73692471435a10/",
+      "anchor": "https://aumedia.neocities.org/seo-services-toowoomba-974a7438ae6ca2b9b61729134c73692471435a10/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
